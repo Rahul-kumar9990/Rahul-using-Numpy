@@ -58,7 +58,7 @@ NumPy is the backbone of the Python Data Science ecosystem. Mastering these conc
 
 ---
 
-### YouTube Channels:
+### Useful YouTube Channels:
 
 [Sheryians AI School](https://youtu.be/-jTD74eEy2I?si=-2Qs3v36oPNmxDH0)
 
